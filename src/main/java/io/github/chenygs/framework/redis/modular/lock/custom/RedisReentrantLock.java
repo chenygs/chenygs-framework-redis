@@ -1,4 +1,4 @@
-package com.github.chenygs.framework.redis.modular.lock.custom;
+package io.github.chenygs.framework.redis.modular.lock.custom;
 
 import org.springframework.data.redis.core.StringRedisTemplate;
 import org.springframework.data.redis.core.script.DefaultRedisScript;

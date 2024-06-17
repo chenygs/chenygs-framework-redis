@@ -1,4 +1,4 @@
-package com.github.chenygs.framework.redis.util;
+package io.github.chenygs.framework.redis.util;
 
 import lombok.AllArgsConstructor;
 import org.springframework.data.redis.core.RedisTemplate;

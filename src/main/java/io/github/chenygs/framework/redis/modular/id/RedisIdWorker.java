@@ -1,4 +1,4 @@
-package com.github.chenygs.framework.redis.modular.id;
+package io.github.chenygs.framework.redis.modular.id;
 
 import org.springframework.data.redis.core.StringRedisTemplate;
 import org.springframework.stereotype.Component;

@@ -1,4 +1,4 @@
-package com.github.chenygs.framework.redis.consts;
+package io.github.chenygs.framework.redis.consts;
 
 /**
  * @author chenygs

@@ -1,4 +1,4 @@
-package com.github.chenygs.framework.redis.modular.limiter;
+package io.github.chenygs.framework.redis.modular.limiter;
 
 import lombok.extern.slf4j.Slf4j;
 import org.aspectj.lang.ProceedingJoinPoint;

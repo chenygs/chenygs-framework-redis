@@ -1,5 +1,5 @@
 
-package com.github.chenygs.framework.redis.serializer;
+package io.github.chenygs.framework.redis.serializer;
 
 import org.springframework.cache.interceptor.SimpleKey;
 import org.springframework.core.convert.ConversionService;

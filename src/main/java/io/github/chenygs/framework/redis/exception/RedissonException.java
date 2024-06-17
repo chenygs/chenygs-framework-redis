@@ -1,4 +1,4 @@
-package com.github.chenygs.framework.redis.exception;
+package io.github.chenygs.framework.redis.exception;
 
 public class RedissonException extends RuntimeException {
     private String message;

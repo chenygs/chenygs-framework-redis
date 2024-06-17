@@ -1,4 +1,4 @@
-package com.github.chenygs.framework.redis.modular.hibernate;
+package io.github.chenygs.framework.redis.modular.hibernate;
 
 import org.hibernate.cfg.AvailableSettings;
 import org.redisson.api.RedissonClient;

@@ -1,7 +1,7 @@
-package com.github.chenygs.framework.redis.config;
+package io.github.chenygs.framework.redis.config;
 
-import com.github.chenygs.framework.redis.serializer.RedisKeySerializer;
-import com.github.chenygs.framework.redis.util.RedisUtil;
+import io.github.chenygs.framework.redis.serializer.RedisKeySerializer;
+import io.github.chenygs.framework.redis.util.RedisUtil;
 import org.springframework.boot.autoconfigure.AutoConfigureBefore;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnBean;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;

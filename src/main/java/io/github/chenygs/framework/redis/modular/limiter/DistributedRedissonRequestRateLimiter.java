@@ -1,4 +1,4 @@
-package com.github.chenygs.framework.redis.modular.limiter;
+package io.github.chenygs.framework.redis.modular.limiter;
 
 import org.redisson.api.RateIntervalUnit;
 import org.redisson.api.RateType;

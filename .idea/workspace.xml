@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="946e755d-be5a-4675-94e4-e4d6efb7b4a1" name="Changes" comment="" />
+    <list default="true" id="946e755d-be5a-4675-94e4-e4d6efb7b4a1" name="Changes" comment="xxx">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/chenygs/framework/redis/config/HibernateCacheAutoConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/chenygs/framework/redis/config/HibernateCacheAutoConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/chenygs/framework/redis/config/RedisTemplateConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/chenygs/framework/redis/config/RedisTemplateConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/chenygs/framework/redis/consts/RedissonConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/chenygs/framework/redis/consts/RedissonConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/chenygs/framework/redis/exception/RedissonException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/chenygs/framework/redis/exception/RedissonException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/chenygs/framework/redis/modular/hibernate/CustomHibernatePropertiesCustomizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/chenygs/framework/redis/modular/hibernate/CustomHibernatePropertiesCustomizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/chenygs/framework/redis/modular/hibernate/New2RedisRegionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/chenygs/framework/redis/modular/hibernate/New2RedisRegionFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/chenygs/framework/redis/modular/id/RedisIdWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/chenygs/framework/redis/modular/id/RedisIdWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/chenygs/framework/redis/modular/limiter/DistributedRedissonRequestRateLimiter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/chenygs/framework/redis/modular/limiter/DistributedRedissonRequestRateLimiter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/chenygs/framework/redis/modular/limiter/RedissonRequestRateLimiterAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/chenygs/framework/redis/modular/limiter/RedissonRequestRateLimiterAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/chenygs/framework/redis/modular/lock/DistributedRedissonLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/chenygs/framework/redis/modular/lock/DistributedRedissonLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/chenygs/framework/redis/modular/lock/RedissonLockAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/chenygs/framework/redis/modular/lock/RedissonLockAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/chenygs/framework/redis/modular/lock/custom/LockManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/chenygs/framework/redis/modular/lock/custom/LockManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/chenygs/framework/redis/modular/lock/custom/RedisReentrantLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/chenygs/framework/redis/modular/lock/custom/RedisReentrantLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/chenygs/framework/redis/serializer/RedisKeySerializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/chenygs/framework/redis/serializer/RedisKeySerializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/chenygs/framework/redis/util/RedisUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/chenygs/framework/redis/util/RedisUtil.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,10 +54,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Maven.chenygs-framework-redis [clean].executor": "Run",
+    "Maven.chenygs-framework-redis [deploy].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "G:/ownsource/chenygs-maven/chenygs-framework-redis",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
@@ -47,13 +73,6 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,11 +82,25 @@
       <option name="presentableId" value="Default" />
       <updated>1718603089801</updated>
       <workItem from="1718603090768" duration="279000" />
-      <workItem from="1718603407467" duration="35000" />
+      <workItem from="1718603407467" duration="570000" />
+      <workItem from="1718603987701" duration="1634000" />
     </task>
+    <task id="LOCAL-00001" summary="xxx">
+      <option name="closed" value="true" />
+      <created>1718603477051</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718603477051</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="xxx" />
+    <option name="LAST_COMMIT_MESSAGE" value="xxx" />
   </component>
 </project>

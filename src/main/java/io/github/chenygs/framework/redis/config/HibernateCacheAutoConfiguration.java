@@ -1,6 +1,6 @@
-package com.github.chenygs.framework.redis.config;
+package io.github.chenygs.framework.redis.config;
 
-import com.github.chenygs.framework.redis.modular.hibernate.CustomHibernatePropertiesCustomizer;
+import io.github.chenygs.framework.redis.modular.hibernate.CustomHibernatePropertiesCustomizer;
 import org.redisson.api.RedissonClient;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

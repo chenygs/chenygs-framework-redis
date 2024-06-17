@@ -1,4 +1,4 @@
-package com.github.chenygs.framework.redis.modular.hibernate;
+package io.github.chenygs.framework.redis.modular.hibernate;
 
 import lombok.AllArgsConstructor;
 import org.redisson.api.RedissonClient;

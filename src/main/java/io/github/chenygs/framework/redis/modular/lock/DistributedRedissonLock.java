@@ -1,4 +1,4 @@
-package com.github.chenygs.framework.redis.modular.lock;
+package io.github.chenygs.framework.redis.modular.lock;
 
 import java.lang.annotation.*;
 
